@@ -1,0 +1,10 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Slavik, Конфигурация: Debug x64 ------
+1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (c++.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+1>Source2.cpp
+1>C:\Users\Алексей\source\repos\c++\c++\Source2.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+1>C:\Users\Алексей\source\repos\c++\c++\Source2.cpp(15,11): warning C4101: a: неиспользованная локальная переменная
+1>c++.vcxproj -> C:\Users\Алексей\source\repos\c++\x64\Debug\Slavik.exe
+1>Сборка проекта "c++.vcxproj" завершена.
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 0, пропущено — 0 ==========
+========== Прошло 00:03,169 ==========
